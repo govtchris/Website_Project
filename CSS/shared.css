@@ -260,7 +260,7 @@ word-spacing: 0pt;
     border: 1px solid #808080;
     margin: 2% auto;
     border-radius: 7px;
-    background:L rgb(227,222,222);
+    background-color: rgb(227,222,222);
     box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.3);
     font-family: 'Raleway', sans-serif;
 }
