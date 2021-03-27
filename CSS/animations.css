@@ -10,6 +10,7 @@ MENU SECTION ANIMATION
     padding: 0;
     list-style: none;
     text-decoration: none;
+    color: black;
 }
 
 .menu li {
